@@ -51,8 +51,9 @@ const IndexPage = () => {
           <span>
             On a more personal level I'm an avid dog lover and have recently got
             a new puppy, even going as far as to be a major part of the dog
-            walking society at my time at university. I also love football and
-            am a massive fan of my local team, Crawley Town FC. Noli cedere!
+            walking society, on their senior commitee at my time at university.
+            I also love football and am a massive fan of my local team, Crawley
+            Town FC. Noli cedere!
           </span>
         </div>
       </div>

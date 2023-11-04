@@ -30,12 +30,12 @@ const ContactPage = () => {
           <Separator />
           <div className="flex flex-col items-center mt-8 gap-8">
             <p className="flex gap-2 text-lg">
-              <MailIcon />
+              <MailIcon /> Email:
               <Link
                 href="mailto:liam.a2401@gmail.com"
                 className="text-blue-500 hover:underline"
               >
-                Email: liam.a2401@gmail.com
+                liam.a2401@gmail.com
               </Link>
             </p>
             <p className="flex gap-2 text-lg">
