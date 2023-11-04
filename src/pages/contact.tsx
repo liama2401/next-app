@@ -43,9 +43,10 @@ const ContactPage = () => {
               Phone: +44 07804 099915
             </p>
             <Separator />
-            <p className="flex gap-2 text-lg font-light">
+            <p className="flex gap-2 text-lg font-light text-center">
               In the top right corner, clicking on the icons will bring you to
-              my github, linkedin and cv respectively.
+              my github, linkedin and cv respectively. <br />
+              Dissertation available upon request.
             </p>
           </div>
         </div>
