@@ -1,5 +1,6 @@
 import Layout from "@/components/Layout";
 import { Separator } from "@/components/ui/separator";
+import { MailIcon, PhoneCallIcon } from "lucide-react";
 import Head from "next/head";
 import { useEffect, useState } from "react";
 
@@ -26,6 +27,20 @@ const ContactPage = () => {
             Contact Me
           </h1>
           <Separator />
+          <div className="flex flex-col items-center mt-8 gap-8">
+            <p className="flex gap-2 text-lg">
+              <MailIcon /> Email: liam.a2401@gmail.com
+            </p>
+            <p className="flex gap-2 text-lg">
+              <PhoneCallIcon />
+              Phone: +44 07804 099915
+            </p>
+            <Separator />
+            <p className="flex gap-2 text-lg font-light">
+              In the top right corner, clicking on the icons will bring you to
+              my github, linkedin and cv respectively.
+            </p>
+          </div>
         </div>
       </div>
     </>

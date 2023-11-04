@@ -48,7 +48,12 @@ const IndexPage = () => {
             />
           </div>
           <Separator />
-          <span>Put more text here, possibly about experience</span>
+          <span>
+            On a more personal level I'm an avid dog lover and have recently got
+            a new puppy, even going as far as to be a major part of the dog
+            walking society at my time at university. I also love football and
+            am a massive fan of my local team, Crawley Town FC. Noli cedere!
+          </span>
         </div>
       </div>
     </>
