@@ -115,9 +115,12 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
           </div>
         </div>
       </div>
-      <div className="grid grid-cols-12">
+      <div className="grid grid-cols-12 pb-3 mb-[50px]">
         <div className="col-start-3 col-span-8"> {children} </div>
       </div>
+      <footer className="fixed bottom-0 bg-white py-4 text-center w-full border border-t-neutral-100">
+        <p>&copy; {new Date().getFullYear()} Made By Liam Atkinson.</p>
+      </footer>
     </>
   );
 };
