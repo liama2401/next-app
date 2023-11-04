@@ -75,7 +75,7 @@ const AboutPage = () => {
                 Yes! Please contact me for hire, I would love to work for any
                 company or even do freelance work as I have also done that in
                 the past. This website took around a day to make, including file
-                setup (6-hours)
+                setup (8-hours).
               </AccordionContent>
             </AccordionItem>
           </Accordion>
