@@ -29,12 +29,12 @@ const IndexPage = () => {
           </h1>
           <Separator />
           <span>
-            I am a 22 year old computer science graduate, and in an attempt to
-            strengthen my Portfolio I have made this website. I am interested in
-            all aspects of computer science and have a passion for programming.
-            I can program in languages such as Next.js, C#, ASP.net, Python,
-            Java, C, C++, PHP, HTML, SQL, JS, POSTGRES just to name a few.{" "}
-            <br />
+            I am a 22 year old computer science 1st class graduate, and in an
+            attempt to strengthen my Portfolio I have made this website. I am
+            interested in all aspects of computer science and have a passion for
+            programming. I can program in languages such as Next.js, C#,
+            ASP.net, Python, Java, C, C++, PHP, HTML, SQL, JS, POSTGRES just to
+            name a few. <br />
             <br />I am currently looking for employment and have relevant
             experience so please do not hesistate to contact me or set me a
             coding task to test my abilities.

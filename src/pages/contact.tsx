@@ -2,6 +2,7 @@ import Layout from "@/components/Layout";
 import { Separator } from "@/components/ui/separator";
 import { MailIcon, PhoneCallIcon } from "lucide-react";
 import Head from "next/head";
+import Link from "next/link";
 import { useEffect, useState } from "react";
 
 const ContactPage = () => {
@@ -29,7 +30,13 @@ const ContactPage = () => {
           <Separator />
           <div className="flex flex-col items-center mt-8 gap-8">
             <p className="flex gap-2 text-lg">
-              <MailIcon /> Email: liam.a2401@gmail.com
+              <MailIcon />
+              <Link
+                href="mailto:liam.a2401@gmail.com"
+                className="text-blue-500 hover:underline"
+              >
+                Email: liam.a2401@gmail.com
+              </Link>
             </p>
             <p className="flex gap-2 text-lg">
               <PhoneCallIcon />

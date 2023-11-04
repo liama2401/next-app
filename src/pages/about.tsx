@@ -55,7 +55,8 @@ const AboutPage = () => {
             <AccordionItem value="item-1">
               <AccordionTrigger>Where am I based?</AccordionTrigger>
               <AccordionContent>
-                Currently in Crawley but travels to Brighton and London.
+                Currently in Crawley but willing to travel as far as Brighton
+                and London.
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-2">
@@ -75,7 +76,7 @@ const AboutPage = () => {
                 Yes! Please contact me for hire, I would love to work for any
                 company or even do freelance work as I have also done that in
                 the past. This website took around a day to make, including file
-                setup (8-hours).
+                setup.
               </AccordionContent>
             </AccordionItem>
           </Accordion>

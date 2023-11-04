@@ -102,13 +102,13 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
           </div>
           <div className="flex items-center w-10 sm:gap-4 md:gap-8 gap-2">
             <Link href="https://github.com/liama2401?tab=repositories">
-              <GithubIcon className="stroke-1" />
+              <GithubIcon className="stroke-2" />
             </Link>
             <Link href="https://www.linkedin.com/in/liam-atkinson-11a9b1159/">
-              <LinkedinIcon className="stroke-1" />
+              <LinkedinIcon className="stroke-2" />
             </Link>
             <DownloadButton
-              className="stroke-1"
+              className="stroke-2"
               fileUrl={"/cv.pdf"}
               fileName={"liam_atkinson_cv.pdf"}
             />
